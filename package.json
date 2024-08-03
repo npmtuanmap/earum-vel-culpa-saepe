@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/earum-vel-culpa-saepe",
-  "version": "3.7.87",
+  "version": "3.7.88",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -76,5 +76,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/earum-vel-culpa-saepe/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
